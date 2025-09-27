@@ -230,7 +230,7 @@ for (i in 1:length(PD_list)) {
   PD_list[[i]] <- SCTransform(
     PD_list[[i]],
     vars.to.regress = c("percent.mt", "percent.ribo"),
-    return.only.var.genes = FALSE,  # 👈 کلید حل مشکل
+    return.only.var.genes = FALSE,   
     verbose = TRUE
   )
 }
