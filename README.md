@@ -1,2 +1,3 @@
-Modular scripts for investigating GBA1 microglial heterogeneity across different treatments in search of new pathways/targets using scRNA-seq and mIF imaging data, a project for AG DKV (DZNE Tuebingen)
+Modular scripts for investigating GBA1 microglial heterogeneity across different treatments in search of new pathways/targets using scRNA-seq and mIF imaging data, a project for AG DKV (DZNE Tuebingen).
+
 Contributors: Mo Dehestani, Vishwa Patel
