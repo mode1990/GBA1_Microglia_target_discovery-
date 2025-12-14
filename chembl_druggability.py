@@ -5,7 +5,7 @@ import time
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
 
-# Target UniProt IDs and corresponding gene names
+# Target UniProt IDs and corresponding gene names, here as examples some genes implicated in PD pathogenesis
 target_uniprot_ids = ["Q5S007", "P37840", "P04062", "P38137", "Q92769", "P43844", "Q13221", "O00257", "Q8N9N0", "Q9HBF4"] 
 gene_names = ["LRRK2", "SNCA", "GBA", "PARK7", "HDAC4", "EPHA4", "IFT88", "TMEM67", "BBS4", "CEP290"]
 
